@@ -1,5 +1,5 @@
 # md-converter
-a tool to convert format of markdown file
+A tool to convert wikilink format to markdown format.
 
 # Usage
 1. paste a file and rename it to *input.md*
